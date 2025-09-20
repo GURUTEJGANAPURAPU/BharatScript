@@ -60,4 +60,4 @@ When people travel to another state, reading local boards can be a challenge. **
 
 ## Deployment
 The project is deployed using **GitHub Pages** and can be accessed here:  
-👉 [BharatScript Live Demo]
+👉 [BharatScript Live Demo] (https://gurutejganapurapu.github.io/BharatScript/)
